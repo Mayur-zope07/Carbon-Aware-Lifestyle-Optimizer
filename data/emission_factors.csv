@@ -1,0 +1,12 @@
+category,type,factor
+vehicle,bike,0.05
+vehicle,petrol_car,0.21
+vehicle,diesel_car,0.25
+vehicle,ev,0.08
+vehicle,bus,0.10
+vehicle,train,0.04
+electricity,india_kwh,0.82
+food,veg,1.5
+food,mixed,2.5
+food,non_veg,3.3
+waste,kg,1.2
